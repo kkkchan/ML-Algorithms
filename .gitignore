@@ -4,3 +4,4 @@
 *.pyc
 dataset/
 datasets/
+*.pkl
